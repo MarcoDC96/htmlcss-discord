@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.color-text-1{
+    color: white;
+}
+
+.img-size{
+    width: 100%;
+    height: 60%;
+}
+
+.img-size2{
+    width: 420px;
+}
+
+.fs-text{
+    font-size: small;
+}
+
+.size-box{
+    width: 100%;
+    height: 325px;
+}
+
+.bg-third{
+    background-color: rgb(250, 243, 243);
+}
+
+.flex-self{
+    justify-content: flex-end;
+}
+
+.padding-1{
+    padding-left: 200px;
+}
+
+.padding-2{
+    padding-right: 700px;
+}
+
+.bg-immage{
+    background-image: url("../img/stars.svg");
+}
+
+.bg-last{
+    background-color: rgb(6, 6, 57);
+}
+
+.title-color{
+    color: rgb(68, 136, 188);
+}
+
+.ita-size{
+    width: 15px;
+}
