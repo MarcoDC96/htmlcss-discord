@@ -22,16 +22,16 @@
 }
 
 .size-box{
-    width: 100%;
+    width: 1472px;
     height: 325px;
+}
+
+.fs-jumbo{
+    font-size: small;
 }
 
 .bg-third{
     background-color: rgb(250, 243, 243);
-}
-
-.flex-self{
-    justify-content: flex-end;
 }
 
 .padding-1{
@@ -43,6 +43,14 @@
 }
 
 .bg-immage{
+    background-image: url("../img/jumbo.png");
+    background-size: 1472px;
+    background-position: 70%;
+    
+    
+}
+
+.bg-immage2{
     background-image: url("../img/stars.svg");
 }
 
@@ -64,4 +72,8 @@
 
 .fs-text{
     font-size: small;
+}
+
+.hr-color{
+    color: rgb(250, 243, 243);
 }
