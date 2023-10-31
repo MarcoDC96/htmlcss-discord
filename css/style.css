@@ -57,3 +57,11 @@
 .ita-size{
     width: 15px;
 }
+
+.no-point{
+    list-style-type: none;
+}
+
+.fs-text{
+    font-size: small;
+}
